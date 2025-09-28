@@ -1,0 +1,40 @@
+# Tema HTML/CSS - Clean Page
+
+## 📖 Descrição
+Este é um template simples em **HTML e CSS**, criado para servir como base para páginas de portfólio, apresentação pessoal ou pequenos negócios.  
+Fácil de editar, responsivo e leve.
+
+## 🚀 Recursos
+- Layout moderno e limpo
+- Design responsivo (funciona em celular, tablet e desktop)
+- Código simples e bem comentado
+- Fácil personalização de cores, textos e imagens
+- Compatível com navegadores modernos
+
+## 📂 Arquivos incluídos
+- `index.html` → Página principal
+- `css/style.css` → Estilos
+- `img/imagem 1, imagem 2`→ Imagens da pagina
+- `/audio` → Pasta para audios
+- `LICENSE.txt` → Licença MIT em português
+
+## 🔧 Como usar
+1. Baixe o arquivo `.zip` e extraia em seu computador.
+2. Abra `index.html` em qualquer navegador para visualizar.
+3. Edite o arquivo `index.html` para alterar os textos e conteúdos.
+4. Ajuste cores e fontes no arquivo `css/style.css`.
+5. Substitua as imagens dentro da pasta `/img` pelas suas próprias.
+
+## 🌍 Demonstração
+Você pode visualizar a versão online do template aqui:  
+👉 [Demo no GitHub Pages](https://seuusuario.github.io/seutema/)
+
+## 👨‍💻 Autor
+Criado por **Thiago Francisco**  
+📧 Contato: [thiagoquennehen@gmail.com](mailto:thiagoquennehen@gmail.com)  
+🔗 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+
+## 📜 Licença
+Este projeto está licenciado sob a **Licença MIT**.  
+Consulte o arquivo `LICENSE.txt` para mais detalhes.
+
