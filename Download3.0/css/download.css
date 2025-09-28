@@ -1,0 +1,109 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:black;
+}
+header{
+    display: flex;
+    margin: auto;
+    max-width: 80%;height: auto;
+    background-color: aqua;
+    h1{color: black;font-size: 80px;margin: auto;}
+    
+}
+h1{
+     display: flex;
+    font-size: 40px;
+    text-align: justify;
+    
+   
+}
+mark{
+   margin-top: 50px;
+    background-color: aqua;
+     
+    
+}
+
+.imagens{
+    display: flex;
+justify-content: center;
+align-items: center;
+    gap: 10px;
+}
+img{
+    display: flex;
+    max-width: 50%;height: auto;
+    
+}
+
+ .links1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    gap: 200px;
+}  
+.links2{
+     display: flex;
+    margin-top: 15px;
+    gap: 10px;
+    
+}
+.links3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    gap: 300px;
+}
+a{
+    display: flex;
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+}
+  
+  .video1{
+    display: flex;
+    max-width: 2%;height: auto;
+  }
+  .video2{
+    display: flex;
+    max-width: 2%;height: auto;
+    margin-top: 15px;
+  }
+  .Musica{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.audio1,.audio2{
+    display: flex;
+}
+footer{
+    display: flex;
+    width: 100%;height: auto;
+    background-color: aqua;
+    p{color: black;font-size: 20px;margin: auto;}
+    a{color: black;font-size: 20px;margin: auto;}
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+    
+   
+    
+
+
+
+
+    
+
